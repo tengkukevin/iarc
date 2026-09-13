@@ -55,7 +55,7 @@ APB1.jpg,No acetowhite lesion observed. VIA result: Negative.,Not done
 ALC1.jpg,No acetowhite lesion observed. VIA result: Negative.,Not done
 AFL1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Diffuse, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Negative.",Not done
 APT1.jpg,No acetowhite lesion observed. VIA result: Negative.,Not done
-APV1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Thin, margin Diffuse. VIA result: Negative.",Not done
+APV1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Thin, margin Diffuse. VIA result: Negative.",Not done
 ALU1.jpg,No acetowhite lesion observed. VIA result: Negative.,Not done
 AEG1.jpg,No acetowhite lesion observed. VIA result: Negative.,Not done
 ADL1.jpg,No acetowhite lesion observed. VIA result: Negative.,Not done
@@ -104,35 +104,35 @@ AJA1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion pre
 AEE1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",Normal
 AER1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",Normal
 ABJ1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",Not done
-ACQ1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
-ACC1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
+ACQ1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
+ACC1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
 AAL1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
 ABS1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN2
-AEO1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",Anterior lip: HSIL-CIN2; Posterior lip: LSIL-CIN1
+AEO1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",Anterior lip: HSIL-CIN2; Posterior lip: LSIL-CIN1
 ACU1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN2
 AFB1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
-ACO1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN2
+ACO1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN2
 AED1.jpg,"The SCJ is Partially visible, located Partly on ectocervix and partly on endocervix. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
-ADC2.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",Microinvasive carcinoma
+ADC2.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",Microinvasive carcinoma
 ADB1.jpg,"The SCJ is Partially visible, located Partly on ectocervix and partly on endocervix. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
 ABC1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN2
 ABY1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
 ABB1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",HSIL-CIN2
-ACZ1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
+ACZ1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
 ADM1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-HPV changes
-ABL1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
-ABU1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
+ABL1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
+ABU1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
 AAE1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
 ABW1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
 ACL1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN2
 ABM1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",Posterior lip: HSIL-CIN3; Anterior lip: normal
-ABA1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
-AEN1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
-ACX1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
-ADJ1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",Microinvasive squamous cell carcinoma
+ABA1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
+AEN1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
+ACX1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
+ADJ1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",Microinvasive squamous cell carcinoma
 AAO1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",Posterior lip: LSIL-HPV changes; Anterior lip: Normal
 ADQ1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",Posterior lip: LSIL-CIN1; Anterior lip: LSIL-HPV changes
-ABO1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
+ABO1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Positive.",HSIL-CIN3
 AEJ1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
 AES1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
 AAU1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
@@ -148,7 +148,7 @@ AEC1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion pre
 AEF1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
 AAB1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-HPV changes
 AAI1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-HPV changes
-ADT1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Thin, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
+ADT1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Thin, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
 ABQ1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
 ACT1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp and regular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
 ACA1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
@@ -157,77 +157,30 @@ AAM1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion pre
 ADD1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
 ADN1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
 ACW1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",Normal
-AEQ1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
+AEQ1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
 ADX1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",Normal
 AEX1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Dense, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
 ABF1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Dense, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",Posterior lip: LSIL-HPV changes
 ABX1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-CIN1
 ADS1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",LSIL-HPV changes
 ABN1.jpg,"The SCJ is Fully visible, located On ectocervix. Acetowhite lesion present with white area Thin, margin Sharp but irregular, surface Smooth, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Positive.",Normal
-ABP1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-AEB1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Invasive squamous cell carcinoma
+ABP1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
+AEB1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Invasive squamous cell carcinoma
 ABR1.jpg,No acetowhite lesion observed. VIA result: Suspicious of cancer.,Squamous cell carcinoma
-ABI1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-ADY1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-AAH1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-ADE1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-ADH1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-AAN1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-AET1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-AFA1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-AEM1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-AAF1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-ACE1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-AAC1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-AAR1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-AEY1.jpg,"The SCJ is Fully visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Suspicious of cancer.",Adenocarcinoma in situ
-AEU1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Adenocarcinoma
-ADF1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Adenocarcinoma
-ABK1.jpg,"The SCJ is Not visible, located . Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
+ABI1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
+ADY1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
+AAH1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
+ADE1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
+ADH1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
+AAN1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
+AET1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
+AFA1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
+AEM1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
+AAF1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
+ACE1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
+AAC1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
+AAR1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
+AEY1.jpg,"The SCJ is Fully visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering less than 75% of ectocervix. VIA result: Suspicious of cancer.",Adenocarcinoma in situ
+AEU1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Adenocarcinoma
+ADF1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and raised, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Adenocarcinoma
+ABK1.jpg,"The SCJ is Not visible. Acetowhite lesion present with white area Dense, margin Sharp and regular, surface Irregular, located Within TZ or close to the external os (if SCJ is not visible), size Covering more than 75% of ectocervix. VIA result: Suspicious of cancer.",Squamous cell carcinoma
